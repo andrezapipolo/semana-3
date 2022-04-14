@@ -1,4 +1,4 @@
-<h1>💡Lógica Aplicada - Estrutura condicional, Escopo e Função</h1>
+<h1>💡Lógica Aplicada: Estrutura condicional, Escopo e Função</h1>
 
 
 <h2>📌Estrutura Condicional</h2> 
