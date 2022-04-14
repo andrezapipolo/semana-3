@@ -13,7 +13,7 @@ Escopos podem:
 
 🔹Conter instruções e/ou expressões, que definem um algoritmo executável ou parte dele;
 
-🔹aninhar ou ser aninhados.
+🔹Aninhar ou ser aninhados.
 
 
 <h2>📌 Função </h2> 
