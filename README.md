@@ -10,7 +10,9 @@ Estrutura condicional é baseada em uma condição que se for atendida o algorit
 Escopos podem:
 
 🔹Conter declarações ou definições de identificadores;
+
 🔹Conter instruções e/ou expressões, que definem um algoritmo executável ou parte dele;
+
 🔹aninhar ou ser aninhados.
 
 
