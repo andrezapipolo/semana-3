@@ -17,6 +17,9 @@ function diaDaSemana(dia) {
       return "Sexta-feira"
       case "7":
       return "Sábado"
+    default:
+      return"Informação invalida."  
+
     }
 
 }
